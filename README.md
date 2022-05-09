@@ -2,7 +2,7 @@
 
 Projeto acadêmico realizado em 04.2022 buscando oferecer informações e conhecimentos voltados para a tomada de decisão, 
 com base em dados e análises estatísticas, utilizando o Power BI para analisar os dados e ampliar 
-as possibilidades de atuação da gestão.
+as possibilidades de atuação da gestão. (em anexo - Inteligencia analitica_GitHub_ATP.pdf)
 
 Apresentação
 
@@ -12,7 +12,7 @@ vendas de 2014 a 2017 encontra se em todo o território dos EUA e entregas em
 todo o mundo.
 
 O Banco de Dados utilizado nesta análise apresenta 21 colunas por 995 linhas, no
-idioma inglês, mas traduzidas para esta análise.
+idioma inglês, mas traduzidas para esta análise. (em anexo - Sample - Superstore.xlsm)
 
 Contém informações da Venda como ID de Venda, Data de Venda e de Postagem,
 Tipo Postagem. Relacionadas ao Cliente como ID Cliente, Categoria Cliente,
@@ -54,4 +54,10 @@ relatos das atividades da empresa o mais atualizado e preciso possível.
 Para isso foi utilizado o arquivo Sample – Superstore.xlsm como fonte de dados,
 criando-se gráficos de pizza, rosca, de colunas, de barras, de dispersão, listas
 cartões e mapas para formar um dashboard de apresentação no software
-Power BI.
+Power BI. (em anexo - Analise_vendas_Cidades.pbix)
+
+
+
+***Este material é objeto de pesquisa disponível a quem possa interessar sobre o Power BI e Inteligência Analítica, o trabalho foi realizado junto a outros alunos que tiveram suas identidades preservadas. Grato a todos.
+
+#POWERBI #InteligenciAnalitica #Area41
