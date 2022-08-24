@@ -1,4 +1,4 @@
-# PROPOSTA DE MELHORIA ORGANIZACIONAL
+# Power BI - PROPOSTA DE MELHORIA ORGANIZACIONAL
 
 Projeto acadêmico realizado em 04.2022 buscando oferecer informações e conhecimentos voltados para a tomada de decisão, 
 com base em dados e análises estatísticas, utilizando o Power BI para analisar os dados e ampliar 
